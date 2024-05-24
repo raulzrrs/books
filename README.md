@@ -28,6 +28,18 @@ npm i
 npm run dev
 ```
 
+```
+php artisan migrate:reset
+```
+
+```
+php artisan migrate
+```
+
+```
+php artisan db:seed
+```
+
 Subir projeto:
 
 ```
