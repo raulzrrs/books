@@ -29,10 +29,6 @@ npm run dev
 ```
 
 ```
-php artisan migrate:reset
-```
-
-```
 php artisan migrate
 ```
 
